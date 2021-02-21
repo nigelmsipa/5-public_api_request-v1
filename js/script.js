@@ -1,2 +1,2 @@
 /** @format */
-console.log('whats up');
+async function getData() {}
