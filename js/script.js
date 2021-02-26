@@ -1,6 +1,6 @@
 /** @format */
-const gallery = document.querySelector('#gallery');
 
+const gallery = document.querySelector('#gallery');
 // Used an async await + fetch function + try catch to get the data asyncronously from the API
 async function getData() {
   try {
